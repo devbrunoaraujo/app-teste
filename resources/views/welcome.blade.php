@@ -7,6 +7,6 @@
     <title>Titulo de teste</title>
 </head>
 <body>
-    Esse é um teste 
+    Bug corrigido!
 </body>
 </html>
